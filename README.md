@@ -1,17 +1,21 @@
-###  🌍 Olá me chamo Rodrigo R. Jose estou cursando Análise e Desenvolvimento de Sistemas na Estácio, sou Técnico em Eletrônica, estou em fase de transição de carreira, quero ser um Dev Full Stack.
+###  🌍 Hi, my name is Rodrigo R. Jose, I'm studying Systems Analysis and Development at Estácio, I'm an Electronics Technician, I'm in the career transition phase, I want to become a Full Stack Dev.
 
-### Ja conheci algumas plataformas de ensino.
+### I've already seen some teaching platforms.
 - Alura
 - Rocketseat
 - Ada
 - Datasciense
-- Atualmente estou na DIO estou gostando do ensino.
-
+- I'm currently at DIO and I'm enjoying teaching.
 ###  🎯 Aprendendo e praticando cada dia mais.
 
 ### Conecte-se comigo 🚀🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/rodrigorj83/)
+
+[![DIO](https://img.shields.io/badge/DIO-000?style=for-the-badge&logo=DIO&logoColor=0E76A8)](https://www.dio.me/users/rodrigorjcolorado/)
+
+
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rodrigocolorado&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
