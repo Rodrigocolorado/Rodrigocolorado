@@ -6,9 +6,8 @@
 - Ada
 - Datasciense
 - I'm currently at DIO and I'm enjoying teaching.
-###  🎯 Aprendendo e praticando cada dia mais.
 
-### Conecte-se comigo 🚀🚀
+### Connect with me 🚀🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/rodrigorj83/)
 
@@ -21,7 +20,7 @@
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rodrigocolorado&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-### Habilidades
+###  Skills
 
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
@@ -29,14 +28,14 @@
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
-## Estudando 3 Semestre
+## Studying 3 Semester
 
-### DESENVOLVIMENTO RÁPIDO DE APLICAÇÕES EM PYTHON
+### RAPID APPLICATION DEVELOPMENT IN PYTHON
 
-### PROGRAMAÇÃO ORIENTADA A OBJETOS EM JAVA
+### OBJECT-ORIENTED PROGRAMMING IN JAVA
 
-### MATEMÁTICA E LÓGICA
+### MATHEMATICS AND LOGIC
 
-### BANCO DE DADOS
+### DATABASE
 
-### ENGENHARIA DE SOFTWARE
+### SOFTWARE ENGINEERING
