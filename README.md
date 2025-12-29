@@ -1,12 +1,12 @@
-###  🌍 Hi, my name is Rodrigo R. Jose, Formado em Analise e Desenvolvimento de Sistemas
+###  🌍 Hi, my name is Rodrigo R. Jose,Graduated in Systems Analysis and Development.
 
-### PLataformas que estudei.
+### Platforms I studied.
 - Alura
 - Rocketseat
 - Ada
 - Datasciense
 - DIO
-- Faculdade Estácio - Formado em Analise e Desenvolvimento em Sistemas.
+- Estácio University - Graduated in Systems Analysis and Development.
 
 ### Connect with me 🚀🚀
 
