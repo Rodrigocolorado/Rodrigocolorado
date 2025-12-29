@@ -1,25 +1,78 @@
-###  🌍 Hi, my name is Rodrigo R. Jose,Graduated in Systems Analysis and Development.
 
-### Platforms I studied.
-- Alura
-- Rocketseat
-- Ada
-- Datasciense
-- DIO
-- Estácio University - Graduated in Systems Analysis and Development.
+<h1 align="center">👨‍💻 Rodrigo R.J.</h1>
+<h3 align="center">Analista e Desenvolvedor de Sistemas | Full Stack | Mobile | Game Developer | APIs</h3>
 
-### Connect with me 🚀🚀
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;Desenvolvedor+Mobile+Android;Game+Developer+Unity;Criando+Soluções+Modernas+%26+Escaláveis" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/rodrigorjlink/)
+---
 
-[![DIO](https://img.shields.io/badge/DIO-000?style=for-the-badge&logo=DIO&logoColor=0E76A8)](https://www.dio.me/users/rodrigorjcolorado/)
+## 🚀 Sobre Mim
+#### Formado em Analise e Desenvolvimento em Sistemas
+Desenvolvedor focado em soluções **Full Stack**, **Mobile Android (Kotlin)**, **APIs REST**, **bancos de dados**, e criando **jogos Unity**.  
+Busco sempre aplicar boas práticas, clean code e arquitetura moderna, criando sistemas escaláveis e bem estruturados.
+
+---
+
+## 🛠️ Tecnologias Principais
+
+### 💻 Linguagens
+<img src="https://skillicons.dev/icons?i=js,ts,java,kotlin,cs,sql" />
+
+### 🌐 Front-end  
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
+
+### ⚙️ Back-end  
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+
+### 📱 Mobile  
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
+
+### 🎮 Desenvolvimento de Jogos  
+<img src="https://skillicons.dev/icons?i=unity" />
+
+### 🗄️ Banco de Dados  
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase" />
+
+### 🧰 Ferramentas  
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode" />
+
+---
+
+## 🎮 — Jogo na Unity
+
+> Projetando jogo 3d.
 
 
-###  Skills
+## 📌 Projetos em Destaque
 
-![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+### 🔹 Sistema de Gestão de Marmitas (Mobile + API)
+App completo em Kotlin com categorias, listagem e carrinho, integrado com API REST.
+
+### 🔹 Dashboard Full Stack (React + Node)
+Sistema com autenticação, gráficos, filtros e área administrativa.
+
+### 🔹 Jogo 3D em Unity
+Logica, colisões, animações, física e pontuação em andamento.
+
+---
+
+## 📫 Contato
+
+<p align="center">
+  <a href="mailto:rodrigorjcolorado@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Rodrigocolorado">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://linkedin.com/in/rodrigorjlink">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+
 
