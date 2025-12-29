@@ -1,6 +1,6 @@
-###  🌍 Hi, my name is Rodrigo R. Jose, I'm studying Systems Analysis and Development at Estácio, I'm an Electronics Technician, I'm in the career transition phase, I want to become a Full Stack Dev.
+###  🌍 Hi, my name is Rodrigo R. Jose, Formado em Analise e Desenvolvimento de Sistemas
 
-### I've already seen some teaching platforms.
+### PLataformas que estudei.
 - Alura
 - Rocketseat
 - Ada
