@@ -9,7 +9,7 @@
 
 ### Connect with me 🚀🚀
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/rodrigorj83/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/rodrigorjlink/)
 
 [![DIO](https://img.shields.io/badge/DIO-000?style=for-the-badge&logo=DIO&logoColor=0E76A8)](https://www.dio.me/users/rodrigorjcolorado/)
 
