@@ -5,7 +5,8 @@
 - Rocketseat
 - Ada
 - Datasciense
-- I'm currently at DIO and I'm enjoying teaching.
+- DIO
+- Faculdade Estácio - Formado em Analise e Desenvolvimento em Sistemas.
 
 ### Connect with me 🚀🚀
 
