@@ -1,6 +1,6 @@
 
 <h1 align="center">👨‍💻 Rodrigo R.J.</h1>
-<h3 align="center">Analista e Desenvolvedor de Sistemas | Full Stack | Mobile | Game Developer | APIs</h3>
+<h3 align="center">Analista e Desenvolvedor de Sistemas | Full Stack | Mobile | APIs</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;Desenvolvedor+Mobile+Android;Game+Developer+Unity;Criando+Soluções+Modernas+%26+Escaláveis" />
