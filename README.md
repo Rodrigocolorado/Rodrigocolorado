@@ -11,10 +11,7 @@
 ## 🚀 Sobre Mim
 #### Formado em Analise e Desenvolvimento em Sistemas
 
-Desenvolvedor focado em soluções **Full Stack**, **Mobile Android (Kotlin)**, **APIs REST**, **bancos de dados**, e criando **jogos Unity**.  
-Busco sempre aplicar boas práticas, clean code e arquitetura moderna, criando sistemas escaláveis e bem estruturados.
-
----
+Especialista em transformar ideias complexas em arquiteturas de software elegantes. Foco em performance, segurança e experiência do usuário.
 
 ## 🛠️ Tecnologias Principais
 
