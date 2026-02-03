@@ -1,6 +1,9 @@
 
 <h1 align="center">👨‍💻 Rodrigo R.J.</h1>
 <h3 align="center"> Systems Developer </h3>
+<img align="center" width="100px" src="https://html/blob/main/images.png"></a>
+</h2>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;Desenvolvedor+Mobile+Android;Game+Developer+Unity;Criando+Soluções+Modernas+%26+Escaláveis" />
