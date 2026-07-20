@@ -55,7 +55,7 @@ Logica, colisões, animações, física e pontuação em andamento.
 ## 📫 Contato
 
 <p align="center">
-  <a href="mailto:rodrigosystemsdeveloper@gmail.com">
+  <a href="mailto:rodrigofullstack0@gmail.com">
     <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
