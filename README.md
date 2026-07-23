@@ -23,32 +23,11 @@ Desenvolvo suas ideias complexas em arquiteturas de software elegantes. Foco em 
 ### 📱 Mobile  
 <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
 
-### 🎮 Desenvolvimento de Jogos  
-<img src="https://skillicons.dev/icons?i=unity" />
-
 ### 🗄️ Banco de Dados  
 <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase" />
 
 ### 🧰 Ferramentas  
 <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode" />
-
----
-
-## 🎮 — Jogo na Unity
-
-> Projetando jogo 3d.
-
-
-## 📌 Projetos em Destaque
-
-### 🔹 Sistema de Gestão de Marmitas (Mobile + API)
-App completo em Kotlin com categorias, listagem e carrinho, integrado com API REST.
-
-### 🔹 Dashboard Full Stack (React + Node)
-Sistema com autenticação, gráficos, filtros e área administrativa.
-
-### 🔹 Jogo 3D em Unity
-Logica, colisões, animações, física e pontuação em andamento.
 
 ---
 
